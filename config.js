@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Akanksha",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "mere sath ghumne chalogi?",                                    // First interaction
+            yesBtn: "ofc",                                             // Text for "Yes" button
+            noBtn: "nehh",                                               // Text for "No" button
+            secretAnswer: "yes, but teri bike pe nahi😤! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
